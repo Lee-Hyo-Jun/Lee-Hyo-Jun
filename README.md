@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+<img src="https://img.shields.io/badge/About.me-00A98F?style=flat&logo=TypeScript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/이효준-00A98F?style=flat&logo=TypeScript&logoColor=white"/>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
