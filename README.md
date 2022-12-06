@@ -1,6 +1,6 @@
 ### 안녕하세요! 👋 👍 😊
 
-<img src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/이효준-00A98F?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/이효준-00A98F?style=for-the-badge&logo=TypeScript&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/이효준-00A98F?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 
